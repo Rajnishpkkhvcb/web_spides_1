@@ -1,0 +1,72 @@
+body
+{
+	margin:2px;
+	padding: 0px;
+	background-image: url(log5.jpg);
+	font-family: sans-serif;
+	background-size: cover;
+	background-position: center;
+	text-decoration: underline;
+}
+
+.box
+{
+	width: 420px;
+	height: 480px;
+	background:black;
+	vertical-align: center;
+	color:black;
+	top: 14%;
+	left: 32%;
+	position: absolute;
+	box-sizing: border-box;
+	border-top:4px solid blue;
+	border-left: 4px solid orangered;
+	opacity: 0.7;
+	border-right: 4px solid lime;
+	border-bottom:4px solid skyblue;
+	
+
+}
+a
+{
+	color: blue
+}
+
+p
+{
+	margin-left: -110px;
+	color: white;
+	font-size: 16px;
+}
+input
+{
+	color: blue;
+	margin-left: -110px;
+	height: 25px;
+	width: 350px;
+	background-color:white;
+	border:1px solid orangered;
+}
+.submit
+{
+	color:white;
+	font-size: 20px;
+	margin-left: 0px;
+	height: 35px;
+	width:180px;
+	background-color:salmon;
+}
+
+form
+{
+    padding-top: 5px;
+	padding-left: 120px;
+}
+
+ h1
+{
+	color: white;
+	margin-left: 35%;
+	margin-top: 3%;
+}
